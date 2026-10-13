@@ -1,0 +1,28 @@
+# SAKIVA
+
+> SAKIVA is an agent-native workspace; its purpose is that a software company can run through agents, and the company that builds it is the first to work that way on it.
+
+Status: Coming soon.
+
+Contact: [alex@sakiva.dev](mailto:alex@sakiva.dev)
+
+## Pages
+
+- [SAKIVA -- Coming soon](https://sakiva.dev/)
+- [SAKIVA -- Скоро](https://sakiva.dev/ru/)
+
+## SAKIVA -- Coming soon
+
+Source: https://sakiva.dev/
+
+Coming soon
+
+SAKIVA is an agent-native workspace; its purpose is that a software company can run through agents, and the company that builds it is the first to work that way on it.
+
+## SAKIVA -- Скоро
+
+Source: https://sakiva.dev/ru/
+
+Скоро
+
+SAKIVA — рабочее пространство, созданное для работы через агентов; его цель — дать программной компании возможность работать через агентов, и компания, которая его создаёт, первой начинает работать так в нём.
