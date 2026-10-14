@@ -1,7 +1,236 @@
 Package | Installed version | Licence | Notice file
+@babel/code-frame | 7.29.7 | MIT | npm/@babel/code-frame.txt
+@babel/compat-data | 7.29.7 | MIT | npm/@babel/compat-data.txt
+@babel/core | 7.29.7 | MIT | npm/@babel/core.txt
+@babel/generator | 7.29.8 | MIT | npm/@babel/generator.txt
+@babel/helper-compilation-targets | 7.29.7 | MIT | npm/@babel/helper-compilation-targets.txt
+@babel/helper-globals | 7.29.7 | MIT | npm/@babel/helper-globals.txt
+@babel/helper-module-imports | 7.29.7 | MIT | npm/@babel/helper-module-imports.txt
+@babel/helper-module-transforms | 7.29.7 | MIT | npm/@babel/helper-module-transforms.txt
+@babel/helper-string-parser | 7.29.7 | MIT | npm/@babel/helper-string-parser.txt
+@babel/helper-validator-identifier | 7.29.7 | MIT | npm/@babel/helper-validator-identifier.txt
+@babel/helper-validator-option | 7.29.7 | MIT | npm/@babel/helper-validator-option.txt
+@babel/helpers | 7.29.7 | MIT | npm/@babel/helpers.txt
+@babel/parser | 7.29.9 | MIT | npm/@babel/parser.txt
+@babel/template | 7.29.7 | MIT | npm/@babel/template.txt
+@babel/traverse | 7.29.8 | MIT | npm/@babel/traverse.txt
+@babel/types | 7.29.8 | MIT | npm/@babel/types.txt
+@eloqnt/config | 0.1.1 | MIT | npm/@eloqnt/config.txt
+@eloqnt/format-json | 0.1.0 | MIT | npm/@eloqnt/format-json.txt
+@eloqnt/format-po | 0.1.1 | MIT | npm/@eloqnt/format-po.txt
 @fontsource/jetbrains-mono | 5.3.0 | OFL-1.1 | @fontsource/jetbrains-mono.txt
+@fontsource/jetbrains-mono | 5.3.0 | OFL-1.1 | npm/@fontsource/jetbrains-mono.txt
 @fontsource/noto-sans | 5.3.0 | OFL-1.1 | @fontsource/noto-sans.txt
+@fontsource/noto-sans | 5.3.0 | OFL-1.1 | npm/@fontsource/noto-sans.txt
 @fontsource/pt-serif | 5.3.0 | OFL-1.1 | @fontsource/pt-serif.txt
+@fontsource/pt-serif | 5.3.0 | OFL-1.1 | npm/@fontsource/pt-serif.txt
 @fontsource/shippori-mincho | 5.3.0 | OFL-1.1 | @fontsource/shippori-mincho.txt
+@fontsource/shippori-mincho | 5.3.0 | OFL-1.1 | npm/@fontsource/shippori-mincho.txt
 @fontsource/zen-kaku-gothic-new | 5.3.1 | OFL-1.1 | @fontsource/zen-kaku-gothic-new.txt
+@fontsource/zen-kaku-gothic-new | 5.3.1 | OFL-1.1 | npm/@fontsource/zen-kaku-gothic-new.txt
+@formatjs/fast-memoize | 3.1.7 | MIT | npm/@formatjs/fast-memoize.txt
+@formatjs/icu-messageformat-parser | 3.5.18 | MIT | npm/@formatjs/icu-messageformat-parser.txt
+@formatjs/icu-messageformat-parser | 3.5.20 | MIT | npm/@formatjs/icu-messageformat-parser.txt
+@formatjs/icu-skeleton-parser | 2.1.11 | MIT | npm/@formatjs/icu-skeleton-parser.txt
+@formatjs/icu-skeleton-parser | 2.1.12 | MIT | npm/@formatjs/icu-skeleton-parser.txt
+@formatjs/intl-localematcher | 0.8.14 | MIT | npm/@formatjs/intl-localematcher.txt
+@img/colour | 1.1.0 | MIT | npm/@img/colour.txt
+@img/sharp-darwin-x64 | 0.35.5 | Apache-2.0 | npm/@img/sharp-darwin-x64.txt
+@img/sharp-libvips-darwin-x64 | 1.3.4 | LGPL-3.0-or-later | NO LICENCE FILE (declared only)
+@jridgewell/gen-mapping | 0.3.13 | MIT | npm/@jridgewell/gen-mapping.txt
+@jridgewell/remapping | 2.3.5 | MIT | npm/@jridgewell/remapping.txt
+@jridgewell/resolve-uri | 3.1.2 | MIT | npm/@jridgewell/resolve-uri.txt
+@jridgewell/sourcemap-codec | 1.6.0 | MIT | npm/@jridgewell/sourcemap-codec.txt
+@jridgewell/trace-mapping | 0.3.31 | MIT | npm/@jridgewell/trace-mapping.txt
+@next/env | 16.3.8 | MIT | NO LICENCE FILE (declared only)
+@next/swc-darwin-x64 | 16.3.8 | MIT | NO LICENCE FILE (declared only)
+@parcel/watcher | 2.6.0 | MIT | npm/@parcel/watcher.txt
+@parcel/watcher-darwin-x64 | 2.6.0 | MIT | npm/@parcel/watcher-darwin-x64.txt
+@schummar/icu-type-parser | 1.21.5 | MIT | NO LICENCE FILE (declared only)
+@swc/core | 1.16.13 | Apache-2.0 | npm/@swc/core.txt
+@swc/core-darwin-x64 | 1.16.13 | Apache-2.0 AND MIT | npm/@swc/core-darwin-x64.txt
+@swc/counter | 0.1.3 | Apache-2.0 | NO LICENCE FILE (declared only)
+@swc/helpers | 0.5.23 | Apache-2.0 | npm/@swc/helpers.txt
+@swc/types | 0.1.28 | Apache-2.0 | npm/@swc/types.txt
+@types/node | 24.19.1 | MIT | npm/@types/node.txt
+@types/react | 19.3.0 | MIT | npm/@types/react.txt
+Lucide and Feather (packages/ui-kit/ICON-LICENSE.txt) | inlined | ISC and MIT | lucide.txt
+baseline-browser-mapping | 2.11.27 | Apache-2.0 | npm/baseline-browser-mapping.txt
+browserslist | 4.29.3 | MIT | npm/browserslist.txt
+caniuse-lite | 1.0.30001814 | CC-BY-4.0 | npm/caniuse-lite.txt
+client-only | 0.0.1 | MIT | NO LICENCE FILE (declared only)
+content-type | 2.1.0 | MIT | npm/content-type.txt
+convert-source-map | 2.0.0 | MIT | npm/convert-source-map.txt
+csstype | 3.2.3 | MIT | npm/csstype.txt
+debug | 4.4.3 | MIT | npm/debug.txt
+detect-libc | 2.1.2 | Apache-2.0 | npm/detect-libc.txt
+electron-to-chromium | 1.5.444 | ISC | npm/electron-to-chromium.txt
+escalade | 3.2.0 | MIT | npm/escalade.txt
 flag-icons | 7.5.0 | MIT | flag-icons.txt
+flag-icons | 7.5.0 | MIT | npm/flag-icons.txt
+gensync | 1.0.0-beta.2 | MIT | npm/gensync.txt
+icu-minify | 4.14.9 | MIT | npm/icu-minify.txt
+intl-messageformat | 11.2.15 | BSD-3-Clause | npm/intl-messageformat.txt
+is-extglob | 2.1.1 | MIT | npm/is-extglob.txt
+is-glob | 4.0.3 | MIT | npm/is-glob.txt
+js-tokens | 4.0.0 | MIT | npm/js-tokens.txt
+jsesc | 3.1.0 | MIT | npm/jsesc.txt
+json5 | 2.2.3 | MIT | npm/json5.txt
+lru-cache | 5.1.1 | ISC | npm/lru-cache.txt
+ms | 2.1.3 | MIT | npm/ms.txt
+nanoid | 3.3.19 | MIT | npm/nanoid.txt
+negotiator | 1.1.0 | MIT | npm/negotiator.txt
+next (bundled @babel/runtime) | 16.3.8 | MIT | npm/next/dist/compiled/@babel/runtime/LICENSE.txt
+next (bundled @hapi/accept) | 16.3.8 | BSD-3-Clause | npm/next/dist/compiled/@hapi/accept/LICENSE.txt
+next (bundled @mswjs/interceptors/ClientRequest) | 16.3.8 | MIT | npm/next/dist/compiled/@mswjs/interceptors/ClientRequest/LICENSE.txt
+next (bundled @napi-rs/triples) | 16.3.8 | MIT | npm/next/dist/compiled/@napi-rs/triples/LICENSE.txt
+next (bundled @opentelemetry/api) | 16.3.8 | Apache-2.0 | npm/next/dist/compiled/@opentelemetry/api/LICENSE.txt
+next (bundled @vercel/blob) | 16.3.8 | Apache-2.0 | npm/next/dist/compiled/@vercel/blob/LICENSE.txt
+next (bundled @vercel/detect-agent) | 16.3.8 | Apache-2.0 | npm/next/dist/compiled/@vercel/detect-agent/LICENSE.txt
+next (bundled @vercel/nft) | 16.3.8 | MIT | npm/next/dist/compiled/@vercel/nft/LICENSE.txt
+next (bundled @vercel/og) | 16.3.8 | MPL-2.0 | npm/next/dist/compiled/@vercel/og/LICENSE.txt
+next (bundled @vercel/og/satori) | 16.3.8 | UNKNOWN | npm/next/dist/compiled/@vercel/og/satori/LICENSE.txt
+next (bundled @vercel/routing-utils) | 16.3.8 | Apache-2.0 | npm/next/dist/compiled/@vercel/routing-utils/LICENSE.txt
+next (bundled acorn) | 16.3.8 | MIT | npm/next/dist/compiled/acorn/LICENSE.txt
+next (bundled anser) | 16.3.8 | MIT | npm/next/dist/compiled/anser/LICENSE.txt
+next (bundled assert) | 16.3.8 | MIT | npm/next/dist/compiled/assert/LICENSE.txt
+next (bundled async-retry) | 16.3.8 | MIT | npm/next/dist/compiled/async-retry/LICENSE.txt
+next (bundled async-sema) | 16.3.8 | MIT | npm/next/dist/compiled/async-sema/LICENSE.txt
+next (bundled babel) | 16.3.8 | MIT | npm/next/dist/compiled/babel/LICENSE.txt
+next (bundled browserify-zlib) | 16.3.8 | MIT | npm/next/dist/compiled/browserify-zlib/LICENSE.txt
+next (bundled browserslist) | 16.3.8 | MIT | npm/next/dist/compiled/browserslist/LICENSE.txt
+next (bundled buffer) | 16.3.8 | MIT | npm/next/dist/compiled/buffer/LICENSE.txt
+next (bundled busboy) | 16.3.8 | UNKNOWN | npm/next/dist/compiled/busboy/LICENSE.txt
+next (bundled bytes) | 16.3.8 | MIT | npm/next/dist/compiled/bytes/LICENSE.txt
+next (bundled ci-info) | 16.3.8 | MIT | npm/next/dist/compiled/ci-info/LICENSE.txt
+next (bundled cli-select) | 16.3.8 | MIT | npm/next/dist/compiled/cli-select/LICENSE.txt
+next (bundled commander) | 16.3.8 | MIT | npm/next/dist/compiled/commander/LICENSE.txt
+next (bundled comment-json) | 16.3.8 | MIT | npm/next/dist/compiled/comment-json/LICENSE.txt
+next (bundled compression) | 16.3.8 | MIT | npm/next/dist/compiled/compression/LICENSE.txt
+next (bundled conf) | 16.3.8 | MIT | npm/next/dist/compiled/conf/LICENSE.txt
+next (bundled content-disposition) | 16.3.8 | MIT | npm/next/dist/compiled/content-disposition/LICENSE.txt
+next (bundled content-type) | 16.3.8 | MIT | npm/next/dist/compiled/content-type/LICENSE.txt
+next (bundled cookie) | 16.3.8 | MIT | npm/next/dist/compiled/cookie/LICENSE.txt
+next (bundled cross-spawn) | 16.3.8 | MIT | npm/next/dist/compiled/cross-spawn/LICENSE.txt
+next (bundled crypto-browserify) | 16.3.8 | MIT | npm/next/dist/compiled/crypto-browserify/LICENSE.txt
+next (bundled debug) | 16.3.8 | MIT | npm/next/dist/compiled/debug/LICENSE.txt
+next (bundled devalue) | 16.3.8 | MIT | npm/next/dist/compiled/devalue/LICENSE.txt
+next (bundled domain-browser) | 16.3.8 | MIT | npm/next/dist/compiled/domain-browser/LICENSE.txt
+next (bundled edge-runtime) | 16.3.8 | MIT | npm/next/dist/compiled/edge-runtime/LICENSE.txt
+next (bundled events) | 16.3.8 | MIT | npm/next/dist/compiled/events/LICENSE.txt
+next (bundled find-up) | 16.3.8 | MIT | npm/next/dist/compiled/find-up/LICENSE.txt
+next (bundled fresh) | 16.3.8 | MIT | npm/next/dist/compiled/fresh/LICENSE.txt
+next (bundled glob) | 16.3.8 | ISC | npm/next/dist/compiled/glob/LICENSE.txt
+next (bundled gzip-size) | 16.3.8 | MIT | npm/next/dist/compiled/gzip-size/LICENSE.txt
+next (bundled hash.js/sha256) | 16.3.8 | MIT | npm/next/dist/compiled/hash.js/sha256/LICENSE.txt
+next (bundled https-browserify) | 16.3.8 | MIT | npm/next/dist/compiled/https-browserify/LICENSE.txt
+next (bundled httpxy) | 16.3.8 | MIT | npm/next/dist/compiled/httpxy/LICENSE.txt
+next (bundled icss-utils) | 16.3.8 | ISC | npm/next/dist/compiled/icss-utils/LICENSE.txt
+next (bundled ignore-loader) | 16.3.8 | UNKNOWN | npm/next/dist/compiled/ignore-loader/LICENSE.txt
+next (bundled image-size) | 16.3.8 | MIT | npm/next/dist/compiled/image-size/LICENSE.txt
+next (bundled ipaddr.js) | 16.3.8 | MIT | npm/next/dist/compiled/ipaddr.js/LICENSE.txt
+next (bundled is-animated) | 16.3.8 | MIT | npm/next/dist/compiled/is-animated/LICENSE.txt
+next (bundled is-docker) | 16.3.8 | MIT | npm/next/dist/compiled/is-docker/LICENSE.txt
+next (bundled is-wsl) | 16.3.8 | MIT | npm/next/dist/compiled/is-wsl/LICENSE.txt
+next (bundled jest-worker) | 16.3.8 | MIT | npm/next/dist/compiled/jest-worker/LICENSE.txt
+next (bundled json5) | 16.3.8 | MIT | npm/next/dist/compiled/json5/LICENSE.txt
+next (bundled jsonwebtoken) | 16.3.8 | MIT | npm/next/dist/compiled/jsonwebtoken/LICENSE.txt
+next (bundled loader-runner) | 16.3.8 | MIT | npm/next/dist/compiled/loader-runner/LICENSE.txt
+next (bundled loader-utils2) | 16.3.8 | MIT | npm/next/dist/compiled/loader-utils2/LICENSE.txt
+next (bundled loader-utils3) | 16.3.8 | MIT | npm/next/dist/compiled/loader-utils3/LICENSE.txt
+next (bundled lodash.curry) | 16.3.8 | MIT | npm/next/dist/compiled/lodash.curry/LICENSE.txt
+next (bundled lru-cache) | 16.3.8 | ISC | npm/next/dist/compiled/lru-cache/LICENSE.txt
+next (bundled mini-css-extract-plugin) | 16.3.8 | MIT | npm/next/dist/compiled/mini-css-extract-plugin/LICENSE.txt
+next (bundled nanoid) | 16.3.8 | MIT | npm/next/dist/compiled/nanoid/LICENSE.txt
+next (bundled native-url) | 16.3.8 | Apache-2.0 | npm/next/dist/compiled/native-url/LICENSE.txt
+next (bundled neo-async) | 16.3.8 | MIT | npm/next/dist/compiled/neo-async/LICENSE.txt
+next (bundled node-html-parser) | 16.3.8 | MIT | npm/next/dist/compiled/node-html-parser/LICENSE.txt
+next (bundled ora) | 16.3.8 | MIT | npm/next/dist/compiled/ora/LICENSE.txt
+next (bundled os-browserify) | 16.3.8 | MIT | npm/next/dist/compiled/os-browserify/LICENSE.txt
+next (bundled p-limit) | 16.3.8 | MIT | npm/next/dist/compiled/p-limit/LICENSE.txt
+next (bundled p-queue) | 16.3.8 | MIT | npm/next/dist/compiled/p-queue/LICENSE.txt
+next (bundled path-browserify) | 16.3.8 | MIT | npm/next/dist/compiled/path-browserify/LICENSE.txt
+next (bundled path-to-regexp) | 16.3.8 | MIT | npm/next/dist/compiled/path-to-regexp/LICENSE.txt
+next (bundled picomatch) | 16.3.8 | MIT | npm/next/dist/compiled/picomatch/LICENSE.txt
+next (bundled postcss-flexbugs-fixes) | 16.3.8 | MIT | npm/next/dist/compiled/postcss-flexbugs-fixes/LICENSE.txt
+next (bundled postcss-modules-extract-imports) | 16.3.8 | ISC | npm/next/dist/compiled/postcss-modules-extract-imports/LICENSE.txt
+next (bundled postcss-modules-local-by-default) | 16.3.8 | MIT | npm/next/dist/compiled/postcss-modules-local-by-default/LICENSE.txt
+next (bundled postcss-modules-scope) | 16.3.8 | ISC | npm/next/dist/compiled/postcss-modules-scope/LICENSE.txt
+next (bundled postcss-modules-values) | 16.3.8 | ISC | npm/next/dist/compiled/postcss-modules-values/LICENSE.txt
+next (bundled postcss-preset-env) | 16.3.8 | CC0-1.0 | npm/next/dist/compiled/postcss-preset-env/LICENSE.txt
+next (bundled postcss-safe-parser) | 16.3.8 | MIT | npm/next/dist/compiled/postcss-safe-parser/LICENSE.txt
+next (bundled postcss-scss) | 16.3.8 | MIT | npm/next/dist/compiled/postcss-scss/LICENSE.txt
+next (bundled postcss-value-parser) | 16.3.8 | MIT | npm/next/dist/compiled/postcss-value-parser/LICENSE.txt
+next (bundled process) | 16.3.8 | MIT | npm/next/dist/compiled/process/LICENSE.txt
+next (bundled querystring-es3) | 16.3.8 | UNKNOWN | npm/next/dist/compiled/querystring-es3/LICENSE.txt
+next (bundled raw-body) | 16.3.8 | MIT | npm/next/dist/compiled/raw-body/LICENSE.txt
+next (bundled react) | 16.3.8 | UNKNOWN | npm/next/dist/compiled/react/LICENSE.txt
+next (bundled react-dom) | 16.3.8 | UNKNOWN | npm/next/dist/compiled/react-dom/LICENSE.txt
+next (bundled react-dom-experimental) | 16.3.8 | UNKNOWN | npm/next/dist/compiled/react-dom-experimental/LICENSE.txt
+next (bundled react-experimental) | 16.3.8 | UNKNOWN | npm/next/dist/compiled/react-experimental/LICENSE.txt
+next (bundled react-is) | 16.3.8 | MIT | npm/next/dist/compiled/react-is/LICENSE.txt
+next (bundled react-refresh) | 16.3.8 | MIT | npm/next/dist/compiled/react-refresh/LICENSE.txt
+next (bundled react-server-dom-turbopack) | 16.3.8 | UNKNOWN | npm/next/dist/compiled/react-server-dom-turbopack/LICENSE.txt
+next (bundled react-server-dom-turbopack-experimental) | 16.3.8 | UNKNOWN | npm/next/dist/compiled/react-server-dom-turbopack-experimental/LICENSE.txt
+next (bundled react-server-dom-webpack) | 16.3.8 | UNKNOWN | npm/next/dist/compiled/react-server-dom-webpack/LICENSE.txt
+next (bundled react-server-dom-webpack-experimental) | 16.3.8 | UNKNOWN | npm/next/dist/compiled/react-server-dom-webpack-experimental/LICENSE.txt
+next (bundled regenerator-runtime) | 16.3.8 | MIT | npm/next/dist/compiled/regenerator-runtime/LICENSE.txt
+next (bundled safe-stable-stringify) | 16.3.8 | MIT | npm/next/dist/compiled/safe-stable-stringify/LICENSE.txt
+next (bundled sass-loader) | 16.3.8 | MIT | npm/next/dist/compiled/sass-loader/LICENSE.txt
+next (bundled scheduler) | 16.3.8 | UNKNOWN | npm/next/dist/compiled/scheduler/LICENSE.txt
+next (bundled scheduler-experimental) | 16.3.8 | UNKNOWN | npm/next/dist/compiled/scheduler-experimental/LICENSE.txt
+next (bundled schema-utils2) | 16.3.8 | MIT | npm/next/dist/compiled/schema-utils2/LICENSE.txt
+next (bundled schema-utils3) | 16.3.8 | MIT | npm/next/dist/compiled/schema-utils3/LICENSE.txt
+next (bundled semver) | 16.3.8 | ISC | npm/next/dist/compiled/semver/LICENSE.txt
+next (bundled send) | 16.3.8 | MIT | npm/next/dist/compiled/send/LICENSE.txt
+next (bundled serve-handler) | 16.3.8 | MIT | npm/next/dist/compiled/serve-handler/LICENSE.txt
+next (bundled shell-quote) | 16.3.8 | MIT | npm/next/dist/compiled/shell-quote/LICENSE.txt
+next (bundled source-map) | 16.3.8 | BSD-3-Clause | npm/next/dist/compiled/source-map/LICENSE.txt
+next (bundled source-map08) | 16.3.8 | BSD-3-Clause | npm/next/dist/compiled/source-map08/LICENSE.txt
+next (bundled stacktrace-parser) | 16.3.8 | MIT | npm/next/dist/compiled/stacktrace-parser/LICENSE.txt
+next (bundled stream-browserify) | 16.3.8 | MIT | npm/next/dist/compiled/stream-browserify/LICENSE.txt
+next (bundled stream-http) | 16.3.8 | MIT | npm/next/dist/compiled/stream-http/LICENSE.txt
+next (bundled string_decoder) | 16.3.8 | MIT | npm/next/dist/compiled/string_decoder/LICENSE.txt
+next (bundled strip-ansi) | 16.3.8 | MIT | npm/next/dist/compiled/strip-ansi/LICENSE.txt
+next (bundled superstruct) | 16.3.8 | MIT | npm/next/dist/compiled/superstruct/LICENSE.txt
+next (bundled tar) | 16.3.8 | BlueOak-1.0.0 | npm/next/dist/compiled/tar/LICENSE.txt
+next (bundled terser) | 16.3.8 | BSD-2-Clause | npm/next/dist/compiled/terser/LICENSE.txt
+next (bundled text-table) | 16.3.8 | MIT | npm/next/dist/compiled/text-table/LICENSE.txt
+next (bundled timers-browserify) | 16.3.8 | MIT | npm/next/dist/compiled/timers-browserify/LICENSE.txt
+next (bundled tty-browserify) | 16.3.8 | MIT | npm/next/dist/compiled/tty-browserify/LICENSE.txt
+next (bundled ua-parser-js) | 16.3.8 | MIT | npm/next/dist/compiled/ua-parser-js/LICENSE.txt
+next (bundled util) | 16.3.8 | MIT | npm/next/dist/compiled/util/LICENSE.txt
+next (bundled vm-browserify) | 16.3.8 | MIT | npm/next/dist/compiled/vm-browserify/LICENSE.txt
+next (bundled watchpack) | 16.3.8 | MIT | npm/next/dist/compiled/watchpack/LICENSE.txt
+next (bundled web-vitals) | 16.3.8 | Apache-2.0 | npm/next/dist/compiled/web-vitals/LICENSE.txt
+next (bundled web-vitals-attribution) | 16.3.8 | Apache-2.0 | npm/next/dist/compiled/web-vitals-attribution/LICENSE.txt
+next (bundled webpack) | 16.3.8 | MIT | npm/next/dist/compiled/webpack/LICENSE.txt
+next (bundled webpack-sources1) | 16.3.8 | MIT | npm/next/dist/compiled/webpack-sources1/LICENSE.txt
+next (bundled webpack-sources3) | 16.3.8 | MIT | npm/next/dist/compiled/webpack-sources3/LICENSE.txt
+next (bundled write-file-atomic) | 16.3.8 | ISC | npm/next/dist/compiled/write-file-atomic/LICENSE.txt
+next (bundled ws) | 16.3.8 | MIT | npm/next/dist/compiled/ws/LICENSE.txt
+next (bundled zod) | 16.3.8 | MIT | npm/next/dist/compiled/zod/LICENSE.txt
+next (bundled zod-validation-error) | 16.3.8 | MIT | npm/next/dist/compiled/zod-validation-error/LICENSE.txt
+next | 16.3.8 | MIT | npm/next.txt
+next-intl | 4.14.9 | MIT | npm/next-intl.txt
+next-intl-swc-plugin-extractor | 4.14.9 | MIT | npm/next-intl-swc-plugin-extractor.txt
+node-addon-api | 7.1.1 | MIT | npm/node-addon-api.txt
+node-releases | 2.0.57 | MIT | npm/node-releases.txt
+picocolors | 1.1.1 | ISC | npm/picocolors.txt
+picomatch | 4.0.7 | MIT | npm/picomatch.txt
+po-parser | 2.2.0 | MIT | npm/po-parser.txt
+postcss | 8.5.23 | MIT | npm/postcss.txt
+react | 19.3.0 | MIT | npm/react.txt
+react-dom | 19.3.0 | MIT | npm/react-dom.txt
+react-number-format | 5.4.5 | MIT | npm/react-number-format.txt
+scheduler | 0.28.0 | MIT | npm/scheduler.txt
+semver | 6.3.1 | ISC | npm/semver.txt
+semver | 7.8.5 | ISC | npm/semver.txt
+sharp | 0.35.5 | Apache-2.0 | npm/sharp.txt
+source-map-js | 1.2.2 | BSD-3-Clause | npm/source-map-js.txt
+styled-jsx | 5.1.6 | MIT | npm/styled-jsx.txt
+tslib | 2.8.1 | 0BSD | npm/tslib.txt
+undici-types | 7.24.6 | MIT | npm/undici-types.txt
+update-browserslist-db | 1.3.3 | MIT | npm/update-browserslist-db.txt
+use-intl | 4.14.9 | MIT | npm/use-intl.txt
+yallist | 3.1.1 | ISC | npm/yallist.txt
