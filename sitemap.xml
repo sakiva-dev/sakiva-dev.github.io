@@ -3,12 +3,45 @@
 <url>
 <loc>https://sakiva.dev/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://sakiva.dev/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://sakiva.dev/es/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://sakiva.dev/de/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://sakiva.dev/fr/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://sakiva.dev/ru/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://sakiva.dev/" />
+</url>
+<url>
+<loc>https://sakiva.dev/es/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://sakiva.dev/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://sakiva.dev/es/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://sakiva.dev/de/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://sakiva.dev/fr/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://sakiva.dev/ru/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://sakiva.dev/" />
+</url>
+<url>
+<loc>https://sakiva.dev/de/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://sakiva.dev/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://sakiva.dev/es/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://sakiva.dev/de/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://sakiva.dev/fr/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://sakiva.dev/ru/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://sakiva.dev/" />
+</url>
+<url>
+<loc>https://sakiva.dev/fr/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://sakiva.dev/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://sakiva.dev/es/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://sakiva.dev/de/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://sakiva.dev/fr/" />
 <xhtml:link rel="alternate" hreflang="ru" href="https://sakiva.dev/ru/" />
 <xhtml:link rel="alternate" hreflang="x-default" href="https://sakiva.dev/" />
 </url>
 <url>
 <loc>https://sakiva.dev/ru/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://sakiva.dev/" />
+<xhtml:link rel="alternate" hreflang="es" href="https://sakiva.dev/es/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://sakiva.dev/de/" />
+<xhtml:link rel="alternate" hreflang="fr" href="https://sakiva.dev/fr/" />
 <xhtml:link rel="alternate" hreflang="ru" href="https://sakiva.dev/ru/" />
 <xhtml:link rel="alternate" hreflang="x-default" href="https://sakiva.dev/" />
 </url>

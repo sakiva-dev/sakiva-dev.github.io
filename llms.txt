@@ -6,7 +6,20 @@ Status: Coming soon.
 
 Contact: [alex@sakiva.dev](mailto:alex@sakiva.dev)
 
+Founder: Aleksandr Ivannikov. Founder of SAKIVA. Dubai, United Arab Emirates.
+- [LinkedIn](https://www.linkedin.com/in/an-ivannikov)
+- [ivannikov.pro](https://ivannikov.pro)
+
+## Investor relations
+
+For investor inquiries, strategic partnerships or company materials, contact the founder.
+[Request investor access](mailto:alex@sakiva.dev?subject=SAKIVA%20investor%20access%20request)
+Access to confidential company materials is provided at the company's discretion.
+
 ## Pages
 
-- [SAKIVA -- Coming soon](https://sakiva.dev/)
-- [SAKIVA -- Скоро](https://sakiva.dev/ru/)
+- [SAKIVA — agent-native workspace](https://sakiva.dev/)
+- [SAKIVA — espacio de trabajo nativo para agentes](https://sakiva.dev/es/)
+- [SAKIVA — von Grund auf für Agenten konzipierte Arbeitsumgebung](https://sakiva.dev/de/)
+- [SAKIVA — espace de travail conçu dès l'origine pour les agents](https://sakiva.dev/fr/)
+- [SAKIVA — рабочее пространство для работы через агентов](https://sakiva.dev/ru/)

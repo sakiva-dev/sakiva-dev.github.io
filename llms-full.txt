@@ -6,12 +6,25 @@ Status: Coming soon.
 
 Contact: [alex@sakiva.dev](mailto:alex@sakiva.dev)
 
+Founder: Aleksandr Ivannikov. Founder of SAKIVA. Dubai, United Arab Emirates.
+- [LinkedIn](https://www.linkedin.com/in/an-ivannikov)
+- [ivannikov.pro](https://ivannikov.pro)
+
+## Investor relations
+
+For investor inquiries, strategic partnerships or company materials, contact the founder.
+[Request investor access](mailto:alex@sakiva.dev?subject=SAKIVA%20investor%20access%20request)
+Access to confidential company materials is provided at the company's discretion.
+
 ## Pages
 
-- [SAKIVA -- Coming soon](https://sakiva.dev/)
-- [SAKIVA -- Скоро](https://sakiva.dev/ru/)
+- [SAKIVA — agent-native workspace](https://sakiva.dev/)
+- [SAKIVA — espacio de trabajo nativo para agentes](https://sakiva.dev/es/)
+- [SAKIVA — von Grund auf für Agenten konzipierte Arbeitsumgebung](https://sakiva.dev/de/)
+- [SAKIVA — espace de travail conçu dès l'origine pour les agents](https://sakiva.dev/fr/)
+- [SAKIVA — рабочее пространство для работы через агентов](https://sakiva.dev/ru/)
 
-## SAKIVA -- Coming soon
+## SAKIVA — agent-native workspace
 
 Source: https://sakiva.dev/
 
@@ -19,10 +32,89 @@ Coming soon
 
 SAKIVA is an agent-native workspace; its purpose is that a software company can run through agents, and the company that builds it is the first to work that way on it.
 
-## SAKIVA -- Скоро
+Aleksandr Ivannikov
+Founder of SAKIVA
+Dubai, United Arab Emirates
+In engineering since 2013.
+
+### Investor relations
+
+For investor inquiries, strategic partnerships or company materials, contact the founder.
+[Request investor access](mailto:alex@sakiva.dev?subject=SAKIVA%20investor%20access%20request)
+Access to confidential company materials is provided at the company's discretion.
+
+## SAKIVA — espacio de trabajo nativo para agentes
+
+Source: https://sakiva.dev/es/
+
+Próximamente
+
+SAKIVA es un espacio de trabajo nativo para agentes; su propósito es que una empresa de software pueda funcionar a través de agentes, y la empresa que lo construye es la primera en trabajar de esa manera en él.
+
+Aleksandr Ivannikov
+Fundador de SAKIVA
+Dubái, Emiratos Árabes Unidos
+En ingeniería desde 2013.
+
+### Relaciones con inversores
+
+Para consultas de inversores, alianzas estratégicas o materiales de la empresa, contacta con el fundador.
+[Solicitar acceso para inversores](mailto:alex@sakiva.dev?subject=Solicitud%20de%20acceso%20para%20inversores%20de%20SAKIVA)
+El acceso a los materiales confidenciales de la empresa se concede a discreción de la empresa.
+
+## SAKIVA — von Grund auf für Agenten konzipierte Arbeitsumgebung
+
+Source: https://sakiva.dev/de/
+
+Demnächst
+
+SAKIVA ist eine von Grund auf für Agenten konzipierte Arbeitsumgebung; ihr Zweck ist, dass ein Softwareunternehmen durch Agenten arbeiten kann, und das Unternehmen, das sie entwickelt, ist das erste, das auf ihr so arbeitet.
+
+Aleksandr Ivannikov
+Gründer von SAKIVA
+Dubai, Vereinigte Arabische Emirate
+Seit 2013 im Ingenieurwesen.
+
+### Investorenbeziehungen
+
+Für Investorenanfragen, strategische Partnerschaften oder Unternehmensunterlagen kontaktiere den Gründer.
+[Investorenzugang anfordern](mailto:alex@sakiva.dev?subject=Anfrage%20zum%20SAKIVA-Investorenzugang)
+Der Zugang zu vertraulichen Unternehmensunterlagen wird nach Ermessen des Unternehmens gewährt.
+
+## SAKIVA — espace de travail conçu dès l'origine pour les agents
+
+Source: https://sakiva.dev/fr/
+
+Bientôt disponible
+
+SAKIVA est un espace de travail conçu dès l'origine pour les agents; son objectif est qu'une entreprise de logiciels puisse fonctionner par l'intermédiaire d'agents, et l'entreprise qui le construit est la première à travailler de cette manière sur cet espace.
+
+Aleksandr Ivannikov
+Fondateur de SAKIVA
+Dubaï, Émirats arabes unis
+Dans l'ingénierie depuis 2013.
+
+### Relations avec les investisseurs
+
+Pour les demandes d'investisseurs, les partenariats stratégiques ou les documents de l'entreprise, contactez le fondateur.
+[Demander un accès investisseur](mailto:alex@sakiva.dev?subject=Demande%20d'acc%C3%A8s%20investisseur%20%C3%A0%20SAKIVA)
+L'accès aux documents confidentiels de l'entreprise est accordé à la discrétion de l'entreprise.
+
+## SAKIVA — рабочее пространство для работы через агентов
 
 Source: https://sakiva.dev/ru/
 
 Скоро
 
 SAKIVA — рабочее пространство, созданное для работы через агентов; его цель — дать программной компании возможность работать через агентов, и компания, которая его создаёт, первой начинает работать так в нём.
+
+Aleksandr Ivannikov
+Основатель SAKIVA
+Дубай, Объединенные Арабские Эмираты
+В разработке с 2013 года.
+
+### Связи с инвесторами
+
+Для запросов от инвесторов, обсуждения стратегического партнерства или получения материалов компании свяжитесь с основателем.
+[Запросить доступ для инвестора](mailto:alex@sakiva.dev?subject=SAKIVA%3A%20%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0)
+Доступ к конфиденциальным материалам предоставляется по усмотрению компании.
