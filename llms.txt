@@ -1,6 +1,7 @@
 # SAKIVA
 
-> SAKIVA is an agent-native workspace; its purpose is that a software company can run through agents, and the company that builds it is the first to work that way on it.
+> SAKIVA is an agent-native workspace where AI agents work together across a company's operations, while people set direction, provide oversight, and accept results.
+> Software engineering is our first proving ground. Our long-term vision is an AI-native organization capable of carrying out work across business functions.
 
 Status: Coming soon.
 

@@ -1,6 +1,7 @@
 # SAKIVA
 
-> SAKIVA is an agent-native workspace; its purpose is that a software company can run through agents, and the company that builds it is the first to work that way on it.
+> SAKIVA is an agent-native workspace where AI agents work together across a company's operations, while people set direction, provide oversight, and accept results.
+> Software engineering is our first proving ground. Our long-term vision is an AI-native organization capable of carrying out work across business functions.
 
 Status: Coming soon.
 
@@ -30,7 +31,9 @@ Source: https://sakiva.dev/
 
 Coming soon
 
-SAKIVA is an agent-native workspace; its purpose is that a software company can run through agents, and the company that builds it is the first to work that way on it.
+SAKIVA is an agent-native workspace where AI agents work together across a company's operations, while people set direction, provide oversight, and accept results.
+
+Software engineering is our first proving ground. Our long-term vision is an AI-native organization capable of carrying out work across business functions.
 
 Aleksandr Ivannikov
 Founder of SAKIVA
@@ -49,7 +52,9 @@ Source: https://sakiva.dev/es/
 
 Próximamente
 
-SAKIVA es un espacio de trabajo nativo para agentes; su propósito es que una empresa de software pueda funcionar a través de agentes, y la empresa que lo construye es la primera en trabajar de esa manera en él.
+SAKIVA es un espacio de trabajo nativo para agentes donde los agentes de IA trabajan juntos en las distintas áreas de una empresa, mientras las personas marcan la dirección, supervisan el trabajo y aceptan los resultados.
+
+La ingeniería de software es nuestro primer campo de prueba. Nuestra visión a largo plazo es una organización nativa de IA capaz de realizar trabajo en distintas funciones empresariales.
 
 Aleksandr Ivannikov
 Fundador de SAKIVA
@@ -68,7 +73,9 @@ Source: https://sakiva.dev/de/
 
 Demnächst
 
-SAKIVA ist eine von Grund auf für Agenten konzipierte Arbeitsumgebung; ihr Zweck ist, dass ein Softwareunternehmen durch Agenten arbeiten kann, und das Unternehmen, das sie entwickelt, ist das erste, das auf ihr so arbeitet.
+SAKIVA ist eine von Grund auf für Agenten konzipierte Arbeitsumgebung, in der KI-Agenten in allen Tätigkeitsbereichen eines Unternehmens zusammenarbeiten, während Menschen die Richtung vorgeben, die Arbeit beaufsichtigen und Ergebnisse abnehmen.
+
+Softwareentwicklung ist unser erstes Praxisfeld, in dem wir diesen Ansatz erproben. Unsere langfristige Vision ist eine KI-native Organisation, die Arbeit über verschiedene Unternehmensfunktionen hinweg ausführen kann.
 
 Aleksandr Ivannikov
 Gründer von SAKIVA
@@ -87,7 +94,9 @@ Source: https://sakiva.dev/fr/
 
 Bientôt disponible
 
-SAKIVA est un espace de travail conçu dès l'origine pour les agents; son objectif est qu'une entreprise de logiciels puisse fonctionner par l'intermédiaire d'agents, et l'entreprise qui le construit est la première à travailler de cette manière sur cet espace.
+SAKIVA est un espace de travail conçu dès l'origine pour les agents, où les agents d'IA travaillent ensemble dans l'ensemble des activités d'une entreprise, tandis que les personnes fixent la direction, supervisent le travail et acceptent les résultats.
+
+L'ingénierie logicielle est notre premier terrain d'expérimentation. Notre vision à long terme est celle d'une organisation conçue dès l'origine autour de l'IA, capable d'accomplir le travail dans les différentes fonctions de l'entreprise.
 
 Aleksandr Ivannikov
 Fondateur de SAKIVA
@@ -106,7 +115,9 @@ Source: https://sakiva.dev/ru/
 
 Скоро
 
-SAKIVA — рабочее пространство, созданное для работы через агентов; его цель — дать программной компании возможность работать через агентов, и компания, которая его создаёт, первой начинает работать так в нём.
+SAKIVA — рабочее пространство для работы через агентов, где AI-агенты совместно ведут работу во всех направлениях деятельности компании, а люди задают направление, контролируют работу и принимают результаты.
+
+Разработка программного обеспечения — первая область, где мы проверяем этот подход на практике. Наше долгосрочное видение — AI-native организация, способная выполнять работу в разных функциональных областях бизнеса.
 
 Aleksandr Ivannikov
 Основатель SAKIVA
