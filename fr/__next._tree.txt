@@ -3,4 +3,4 @@
 :HL["/_next/static/chunks/0lrj1jxxz-5aw.css","style"]
 :HC["/",""]
 :HL["/founder-portrait.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"locale","param":{"type":"d","key":"fr","siblings":["llms-full.txt","llms.txt"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"_h0wEHJGUtGchtkpSwhhx"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"locale","param":{"type":"d","key":"fr","siblings":["llms-full.txt","llms.txt"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"72DQQ5oGbCJzqbjDfc1y0"}

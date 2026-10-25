@@ -11,6 +11,8 @@ Founder: Aleksandr Ivannikov. Founder of SAKIVA. Dubai, United Arab Emirates.
 - [LinkedIn](https://www.linkedin.com/in/an-ivannikov)
 - [ivannikov.pro](https://ivannikov.pro)
 
+I'm building SAKIVA so AI agents can carry a company's work together, while people remain in control of its direction and decisions. We're proving this approach through software engineering first.
+
 ## Investor relations
 
 For investor inquiries, strategic partnerships or company materials, contact the founder.
